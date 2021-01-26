@@ -1,0 +1,16 @@
+h1{
+    font-family: sans-serif;
+    font-size: 56px;
+    color: black;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0;
+    background: linear-gradient(
+        to bottom,
+        white 0%, 
+        white 72%,
+        gold 72%,
+        gold 100%
+    );
+}
