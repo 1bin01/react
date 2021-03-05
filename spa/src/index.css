@@ -1,11 +1,14 @@
-#root{
+#body{
     background-color: #ffcc00;
-    padding: 20px;
+    padding: 50px;
     margin: 0;
 }
 
 h1, h2, p, ul, li{
     font-family: sans-serif;
+}
+#title {
+    margin: 10px;
 }
 
 ul.header li{

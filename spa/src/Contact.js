@@ -1,10 +1,10 @@
 import React, {Component} from "react";
 
-class Home extends Component{
+class Contact extends Component{
     render(){
         return(
             <div>
-                <h2> 메인 페이지</h2>
+                <h2>  </h2>
                 <p>
                  페이지 작업중   . . . 
                 </p>
@@ -12,4 +12,4 @@ class Home extends Component{
         );
     }
 }
-export default Home;
+export default Contact;
