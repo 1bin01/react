@@ -1,15 +1,13 @@
-import React, {Component} from "react";
+import React, {Component} from "react"
+import { Header, Image } from 'semantic-ui-react'
 
 class Contact extends Component{
     render(){
-        return(
-            <div>
-                <h2>  </h2>
-                <p>
-                 페이지 작업중   . . . 
-                </p>
-            </div>
+        return(          
+            <Header as='h2'>
+                <Image circular src='/react_profile_img.png' /> 
+            </Header>
         );
     }
 }
-export default Contact;
+export default Contact; 
